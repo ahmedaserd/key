@@ -1,0 +1,6 @@
+import time
+import keyboard
+
+while True:
+    keyboard.press_and_release('space')
+    time.sleep(1)
